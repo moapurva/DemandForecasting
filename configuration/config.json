@@ -1,6 +1,6 @@
 {
-    "subscription_id": "Your Azure Subscription ID",
-    "resource_group": "Your Resource Group Name",
-    "workspace_name": "Your Azure ML Workspace Name",
-    "location": "Azure ML Location"
+    "subscription_id": "71c5c7fa-901a-4a6d-900d-626b04a901c5",
+    "resource_group": "mlservicesrg",
+    "workspace_name": "moapurvamlservices",
+    "location": "East US"
 }
