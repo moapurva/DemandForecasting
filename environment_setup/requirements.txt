@@ -1,5 +1,4 @@
-azure-cli==2.22.1
-azureml-sdk[cli]
+
 scipy
 scikit-learn
 joblib
@@ -8,3 +7,5 @@ pandas
 matplotlib
 seaborn
 statsmodels
+azure-cli
+azureml-sdk[cli]
